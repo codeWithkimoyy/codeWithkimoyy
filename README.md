@@ -18,11 +18,11 @@ I keep systems reliable, records accurate, and people moving forward.
 
 | 💻 Programming Languages | 🌐 Frontend Development | ⚙️ Backend Development |
 |---|---|---|
-| [![](https://skillicons.dev/icons?i=python,dart,ts,js,java,php,html,css)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js,flutter)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=php,spring,nodejs,mysql)](https://skillicons.dev) |
+| [![](https://skillicons.dev/icons?i=python,dart,ts,js,java,php,html,css)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=react,tailwind,html,css,js,flutter)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=php,spring,nodejs,mysql)](https://skillicons.dev) |
 
 🧰 **Toolkit**
 
-[![](https://skillicons.dev/icons?i=vscode,git,github,vercel,figma,postman,docker,linux)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=vscode,git,github,vercel,linux)](https://skillicons.dev)
 
 💻 **IT Support & Hardware** — Desktop troubleshooting · hardware diagnostics · peripheral configuration · printer support  
 🛠️ **Systems & Software** — OS installation & configuration · software deployment · backup & recovery · security tools  
