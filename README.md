@@ -101,7 +101,7 @@ focus:      IT Support · Software Development · Technical Documentation
 <h3>📈 stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeWithkimoyy&show_icons=true&theme=transparent&text_color=b0c0d3&title_color=4FD1C5&icon_color=4F8CFF&border_color=4FD1C5&border_radius=12&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codeWithkimoyy&show_icons=true&theme=transparent&text_color=b0c0d3&title_color=4FD1C5&icon_color=4FD1C5&border_color=4FD1C5&border_radius=12&hide_border=true&rank_icon=percentile" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithkimoyy&layout=compact&theme=transparent&text_color=b0c0d3&title_color=4FD1C5&border_color=4FD1C5&border_radius=12&hide_border=true" height="160" />
 </p>
 
