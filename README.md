@@ -7,7 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KimCutamora)
 
 **Computer Science student** based in Bohol, Philippines.  
-Building software that solves real problems.
+Building software that solves real problems.  
+🧠 Currently learning **AI Engineering**.
 
 🎓 **BS Computer Science** @ Bohol Island State University — 3rd Year  
 💼 **IT Support** @ Knowles Electronics Philippines (2023–2024)
