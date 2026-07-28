@@ -1,13 +1,13 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4FD1C5&center=true&width=520&lines=Kim+C.+Cutamora;IT+Support+%E2%80%A2+CS+Student;Making+technology+work+for+people" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4FD1C5&center=true&width=520&lines=Kim+C.+Cutamora;CS+Student+%E2%80%A2+Aspiring+Developer;Making+technology+work+for+people" alt="Typing SVG" />
 
-*IT Support Professional · Computer Science Student · Aspiring Developer*
+*Computer Science Student · Aspiring Developer*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kimcutamora.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kimcutamora.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cutamorakim15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/kim-cutamora-5b3b90334)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KimCutamora)
 
-IT Support professional and **Computer Science student** based in Bohol, Philippines.  
-I keep systems reliable, records accurate, and people moving forward.
+**Computer Science student** based in Bohol, Philippines.  
+Building software that solves real problems.
 
 🎓 **BS Computer Science** @ Bohol Island State University — 3rd Year  
 💼 **IT Support** @ Knowles Electronics Philippines (2023–2024)
@@ -49,8 +49,6 @@ I keep systems reliable, records accurate, and people moving forward.
 
 ### 📫 Connect with Me
 
-📧 **cutamorakim15@gmail.com** &nbsp;&nbsp; 📱 **09638406151**
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cutamorakim15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KimCutamora)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kimcutamora.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kimcutamora.dev)
