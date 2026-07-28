@@ -26,8 +26,8 @@ I keep systems reliable, records accurate, and people moving forward.
 
 💻 **IT Support & Hardware** — Desktop troubleshooting · hardware diagnostics · peripheral configuration · printer support  
 🛠️ **Systems & Software** — OS installation & configuration · software deployment · backup & recovery · security tools  
-📱 **App Development** — Flutter · Dart · Android deployment · REST API integration · Git & GitHub  
-🌐 **Web Development** — HTML · CSS · JavaScript · Web deployment · Responsive design · Basic backend  
+📱 **App Development** — Android deployment · REST API integration  
+🌐 **Web Development** — Web deployment · Responsive design  
 📋 **Data & Documentation** — Accurate data encoding · record management · file organization · technical documentation  
 📊 **Microsoft Ecosystem** — Word · Excel · PowerPoint · Outlook · Teams · Oracle · Access
 
