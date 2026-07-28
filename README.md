@@ -16,26 +16,22 @@ I keep systems reliable, records accurate, and people moving forward.
 
 ### 🛠 Tech Arsenal
 
-💻 **Languages**
+| 💻 Programming Languages | 🌐 Frontend Development | ⚙️ Backend Development |
+|---|---|---|
+| [![](https://skillicons.dev/icons?i=python,dart,ts,js,java,php,html,css)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js,flutter)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=php,spring,nodejs,mysql)](https://skillicons.dev) |
 
-[![](https://skillicons.dev/icons?i=python,dart,ts,js,java,php,html,css)](https://skillicons.dev)
+🧰 **Toolkit**
 
-🌐 **Frameworks & Libraries**
+[![](https://skillicons.dev/icons?i=vscode,git,github,vercel,figma,postman,docker,linux)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=flutter,react,tailwind,spring)](https://skillicons.dev)
+💻 **IT Support & Hardware** — Desktop troubleshooting · hardware diagnostics · peripheral configuration · printer support  
+🛠️ **Systems & Software** — OS installation & configuration · software deployment · backup & recovery · security tools  
+📱 **App Development** — Flutter · Dart · Android deployment · REST API integration · Git & GitHub  
+🌐 **Web Development** — HTML · CSS · JavaScript · Web deployment · Responsive design · Basic backend  
+📋 **Data & Documentation** — Accurate data encoding · record management · file organization · technical documentation  
+📊 **Microsoft Ecosystem** — Word · Excel · PowerPoint · Outlook · Teams · Oracle · Access
 
-🗄️ **Databases & Tools**
-
-[![](https://skillicons.dev/icons?i=mysql,git,linux)](https://skillicons.dev)
-
----
-
-### ⚙️ Computer Hardware Skills
-
-🖥️ Set up and configure computer systems, networks, and servers  
-🔧 Maintain, troubleshoot, and repair computer systems and peripherals  
-🗄️ Install and configure operating systems, software, and security tools  
-📋 Maintain technical documentation, inventory, and records
+🤝 **Soft Skills** — Problem-solving · Communication · Team collaboration · Adaptability · Time management · Attention to detail
 
 ---
 
