@@ -22,7 +22,7 @@ I keep systems reliable, records accurate, and people moving forward.
 
 🧰 **Toolkit**
 
-[![](https://skillicons.dev/icons?i=vscode,git,github,vercel,linux)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=vscode,git,github,vercel,render,figma,postman,docker,linux)](https://skillicons.dev)
 
 💻 **IT Support & Hardware** — Desktop troubleshooting · hardware diagnostics · peripheral configuration · printer support  
 🛠️ **Systems & Software** — OS installation & configuration · software deployment · backup & recovery · security tools  
