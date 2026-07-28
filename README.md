@@ -1,6 +1,8 @@
-### ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) Hey there! I'm Kim
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4FD1C5&center=true&width=520&lines=Kim+C.+Cutamora;IT+Support+%E2%80%A2+CS+Student;Making+technology+work+for+people" alt="Typing SVG" />
+</p>
 
-*IT Support Professional · Computer Science Student · Aspiring Developer*
+<p align="center"><i>IT Support Professional · Computer Science Student · Aspiring Developer</i></p>
 
 [![](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kimcutamora.dev)
 [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cutamorakim15@gmail.com)
