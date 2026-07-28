@@ -59,7 +59,7 @@
 <h3 align="center">📫 Connect with Me</h3>
 
 <p align="center">
-  📧 <b>cutamorakim15@gmail.com</b> &nbsp;&nbsp; 📱 <b>+63 992 301 4053</b>
+  📧 <b>cutamorakim15@gmail.com</b> &nbsp;&nbsp; 📱 <b>09638406151</b>
 </p>
 
 <p align="center">
