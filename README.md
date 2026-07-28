@@ -90,10 +90,6 @@ focus:      IT Support · Software Development · Technical Documentation
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithkimoyy&layout=compact&theme=transparent&text_color=b0c0d3&title_color=4FD1C5&border_color=4FD1C5&border_radius=12&hide_border=true" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codeWithkimoyy&theme=algolia&no-frame=true&no-bg=true&column=5&margin-w=12" alt="trophies" />
-</p>
-
 ---
 
 <div align="center">
