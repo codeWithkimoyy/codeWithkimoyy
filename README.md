@@ -65,33 +65,33 @@ focus:      IT Support · Software Development · Technical Documentation
 
 <table>
   <thead>
-    <tr><th>project</th><th>stack</th><th></th></tr>
+    <tr><th>project</th><th>stack</th><th>status</th></tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/codeWithkimoyy/real_estate"><b>EstateFlow</b></a></td>
       <td><code>React 19</code> <code>TypeScript</code> <code>Tailwind</code> <code>PHP 8</code> <code>MySQL</code></td>
-      <td>Full-stack real estate platform</td>
+      <td>🟢 Active</td>
     </tr>
     <tr>
       <td><a href="https://github.com/codeWithkimoyy/votingsystem"><b>Online Voting System</b></a></td>
       <td><code>React</code> <code>Spring Boot</code> <code>MySQL</code></td>
-      <td><a href="https://votingsystem-cyan.vercel.app/">Live →</a></td>
+      <td>🟢 <a href="https://votingsystem-cyan.vercel.app/">Live</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/codeWithkimoyy/studybuddy_backend"><b>StudyBuddy</b></a></td>
       <td><code>Dart</code> <code>Flutter</code></td>
-      <td>Fullstack study companion app</td>
+      <td>🔵 Private</td>
     </tr>
     <tr>
       <td><a href="https://github.com/codeWithkimoyy/BLSPoland_scriptBOT"><b>BLS Poland ScriptBOT</b></a></td>
       <td><code>JavaScript</code></td>
-      <td>Visa booking automation</td>
+      <td>🟢 Active</td>
     </tr>
     <tr>
       <td><a href="https://bscs-3a-treasurers-management-system.onrender.com/"><b>BSCS 3A Treasurer System</b></a></td>
       <td><code>React</code> <code>Node.js</code> <code>MySQL</code></td>
-      <td><a href="https://bscs-3a-treasurers-management-system.onrender.com/">Live →</a></td>
+      <td>🟢 <a href="https://bscs-3a-treasurers-management-system.onrender.com/">Live</a></td>
     </tr>
   </tbody>
 </table>
