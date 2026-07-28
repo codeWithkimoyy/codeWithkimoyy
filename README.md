@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4FD1C5&center=true&width=435&lines=Kim+C.+Cutamora;IT+Support+%E2%80%A2+CS+Student;Making+technology+work+for+people" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4FD1C5&center=true&width=600&lines=Kim+C.+Cutamora;IT+Support+%E2%80%A2+CS+Student;Making+technology+work+for+people" alt="Typing SVG" />
   <br><br>
   <p>
     <a href="https://kimcutamora.dev"><img src="https://img.shields.io/badge/-portfolio-4FD1C5?style=for-the-badge&logo=web&logoColor=071426" alt="Portfolio"></a>
