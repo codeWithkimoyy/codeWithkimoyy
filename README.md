@@ -37,11 +37,24 @@
 [![](https://skillicons.dev/icons?i=mysql,git,linux)](https://skillicons.dev)
 
 </div>
+---
+
+<h3 align="center">⚙️ Computer Hardware Skills</h3>
+
+<div align="center">
+
+🖥️ Set up and configure computer systems, networks, and servers<br>
+🔧 Maintain, troubleshoot, and repair computer systems and peripherals<br>
+🗄️ Install and configure operating systems, software, and security tools<br>
+📋 Maintain technical documentation, inventory, and records
+
+</div>
 
 ---
 
-<h3 align="center">📌 Featured Projects</h3>
 
+
+<h3 align="center">📌 Featured Projects</h3>
 <div align="center">
 
 | Project | Stack | Status |
