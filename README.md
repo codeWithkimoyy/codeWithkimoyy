@@ -61,7 +61,7 @@ focus:      IT Support · Software Development · Technical Documentation
 
 ---
 
-<h3>📌 featured projects</h3>
+<h3>📌 Featured Projects</h3>
 
 <table>
   <thead>
