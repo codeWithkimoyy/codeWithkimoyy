@@ -17,7 +17,7 @@ I keep systems reliable, records accurate, and people moving forward.
 ```yaml
 currently:  BS Computer Science @ Bohol Island State University — 3rd Year
 previously: IT Support @ Knowles Electronics Philippines (2023–2024)
-location:   Bohol, Philippines
+location:   Sierra Bullones, Bohol, Philippines
 focus:      IT Support · Software Development · Technical Documentation
 ```
 
