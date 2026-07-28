@@ -91,7 +91,7 @@ focus:      IT Support · Software Development · Technical Documentation
     <tr>
       <td><a href="https://bscs-3a-treasurers-management-system.onrender.com/"><b>BSCS 3A Treasurer System</b></a></td>
       <td><code>React</code> <code>Node.js</code> <code>MySQL</code></td>
-      <td>Class financial management</td>
+      <td><a href="https://bscs-3a-treasurers-management-system.onrender.com/">Live →</a></td>
     </tr>
   </tbody>
 </table>
