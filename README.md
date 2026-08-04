@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4FD1C5&center=true&width=520&lines=Kim+C.+Cutamora;Computer+Science+Student+%E2%80%A2+Aspiring+Developer;Making+technology+work+for+people" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4FD1C5&center=true&width=520&lines=Kim+C.+Cutamora;Computer+Science+Student+%E2%80%A2+Aspiring+Developer;Making+technology+work+for+people" alt="Typing SVG" />
 
 *Computer Science Student · Aspiring Developer*
 
